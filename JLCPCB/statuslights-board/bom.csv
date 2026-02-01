@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"CAPSLED, NUMLED, SCRLED",LED_D5.0mm,3,LED,
+"CAPSR, NUMR, SCRR",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,3,51R,
+J1,JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,1,JST SH (from controller),
